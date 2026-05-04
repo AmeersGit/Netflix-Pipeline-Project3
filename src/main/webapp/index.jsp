@@ -13,14 +13,14 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>NETFLIX SIGN IN V-3.5612</h2>
+      <h2>NETFLIX SIGN IN V-3.911</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
           <label>Mobile number</label>
         </div>
         <div class="form-control">
-          <input type="password" required />
+          <input type="Authentication" required />
           <label>Password</label>
         </div>
         <button type="submit">WELCOME TO NETFLIX V-6.0</button>
